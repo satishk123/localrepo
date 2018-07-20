@@ -8,6 +8,8 @@ int main()
 {
       char str[]="saisatish";
       char str2[]="mirafra";
+         
+       //  gggg
 
     char str3[60];
 
